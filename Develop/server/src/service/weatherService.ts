@@ -4,7 +4,7 @@ dotenv.config();
 // TODO: Define an interface for the Coordinates object
 
 // TODO: Define a class for the Weather object
-class weather {
+class Weather {
   
 }
 
